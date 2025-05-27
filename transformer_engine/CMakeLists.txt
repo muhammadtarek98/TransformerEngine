@@ -3,7 +3,6 @@
 # See LICENSE for license information.
 
 cmake_minimum_required(VERSION 3.18)
-
 if(NOT DEFINED CMAKE_CUDA_ARCHITECTURES)
   set(CMAKE_CUDA_ARCHITECTURES 70 80 89 90)
 endif()

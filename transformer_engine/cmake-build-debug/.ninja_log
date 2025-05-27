@@ -1,0 +1,24 @@
+# ninja log v6
+2	23432	1748335967301013172	common/CMakeFiles/transformer_engine.dir/fused_attn/fused_attn.cpp.o	bed696a628b6f9dd
+3	5764	1748335967302013172	common/CMakeFiles/transformer_engine.dir/gemm/cublaslt_gemm.cu.o	5b3d80170bbbcc98
+3	25144	1748335967302013172	common/CMakeFiles/transformer_engine.dir/layer_norm/ln_bwd_semi_cuda_kernel.cu.o	690c46415eff4d
+3	86731	1748335967302013172	common/CMakeFiles/transformer_engine.dir/fused_attn/utils.cu.o	9c5f91b049f970f8
+2	8690	1748335967301013172	common/CMakeFiles/transformer_engine.dir/transpose/transpose_fusion.cu.o	e6998bf4e401be5b
+1230	11089	1748335968530013238	common/CMakeFiles/transformer_engine.dir/fused_softmax/scaled_upper_triang_masked_softmax.cu.o	c89c1db40857226d
+4	10366	1748335967303013172	common/CMakeFiles/transformer_engine.dir/util/cast.cu.o	25d09a982cb3db3d
+3	1617	1748335967302013172	common/CMakeFiles/transformer_engine.dir/rmsnorm/rmsnorm_api.cpp.o	5f3e87c033d9ab2b
+1	15612	1748335967300013172	common/CMakeFiles/transformer_engine.dir/transpose/cast_transpose.cu.o	feccfdfaf36e7257
+1	6817	1748335967300013172	common/CMakeFiles/transformer_engine.dir/transpose/transpose.cu.o	b95e470441a8206a
+1	1110	1748335967300013172	common/CMakeFiles/transformer_engine.dir/transformer_engine.cpp.o	500d625b1e89310e
+3	26426	1748335967302013172	common/CMakeFiles/transformer_engine.dir/layer_norm/ln_fwd_cuda_kernel.cu.o	febb785e53da4af9
+2	18566	1748335967301013172	common/CMakeFiles/transformer_engine.dir/activation/gelu.cu.o	3caaf7d7a32b3a34
+2	10515	1748335967301013172	common/CMakeFiles/transformer_engine.dir/transpose/multi_cast_transpose.cu.o	992fbb8e200c54d9
+3	13086	1748335967302013172	common/CMakeFiles/transformer_engine.dir/rmsnorm/rmsnorm_bwd_semi_cuda_kernel.cu.o	91dde0acee1081ee
+4	15201	1748335967303013172	common/CMakeFiles/transformer_engine.dir/rmsnorm/rmsnorm_fwd_cuda_kernel.cu.o	e07cb3ba2fbfb3
+2	22047	1748335967301013172	common/CMakeFiles/transformer_engine.dir/transpose/cast_transpose_fusion.cu.o	4fcbcab02dad0a67
+3	1230	1748335967302013172	common/CMakeFiles/transformer_engine.dir/layer_norm/ln_api.cpp.o	783b800f87c3eccb
+1110	13136	1748335968409013231	common/CMakeFiles/transformer_engine.dir/fused_softmax/scaled_masked_softmax.cu.o	181f33bc4162cd05
+2	9480	1748346746652588851	common/CMakeFiles/transformer_engine.dir/fused_attn/fused_attn.cpp.o	bed696a628b6f9dd
+2	53641	1748346746652588851	common/CMakeFiles/transformer_engine.dir/fused_attn/utils.cu.o	9c5f91b049f970f8
+1	55383	1748350854531808236	common/CMakeFiles/transformer_engine.dir/fused_attn/fused_attn_fp8.cu.o	46f5ebc36500899f
+55383	55966	1748350909913811194	common/libtransformer_engine.so	ee2a4cfc71d2c48e

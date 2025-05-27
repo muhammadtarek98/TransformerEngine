@@ -1,0 +1,5 @@
+/home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release/common/CMakeFiles/transformer_engine.dir
+/home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release/common/CMakeFiles/edit_cache.dir
+/home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release/common/CMakeFiles/rebuild_cache.dir

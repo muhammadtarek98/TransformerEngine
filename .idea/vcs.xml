@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend/cmake-build-debug/_deps/catch2-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend/cmake-build-debug/_deps/dlpack-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend/cmake-build-debug/_deps/pybind11-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend/cmake-build-release/_deps/catch2-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend/cmake-build-release/_deps/dlpack-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/cudnn-frontend/cmake-build-release/_deps/pybind11-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/googletest" vcs="Git" />
+  </component>
+</project>

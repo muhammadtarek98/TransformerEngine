@@ -1,0 +1,13 @@
+/opt/clion-2025.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/opt/clion-2025.1/bin/ninja/linux/x64/ninja -DCMAKE_CUDA_COMPILER=/usr/local/cuda-11.8/bin/nvcc -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-11.8 -G Ninja -S /home/muhammad/packages/TransformerEngine/transformer_engine -B /home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release
+-- cudnn found at /usr/lib/x86_64-linux-gnu/libcudnn.so.
+-- cudnn_adv_infer not found.
+-- cudnn_adv_train not found.
+-- cudnn_cnn_infer not found.
+-- cudnn_cnn_train not found.
+-- cudnn_ops_infer not found.
+-- cudnn_ops_train not found.
+-- cuDNN: /usr/lib/x86_64-linux-gnu/libcudnn.so
+-- cuDNN: /usr/include
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/muhammad/packages/TransformerEngine/transformer_engine/cmake-build-release
