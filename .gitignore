@@ -1,0 +1,10 @@
+/transformer_engine_extensions.cpython-310-x86_64-linux-gnu.so
+/libtransformer_engine.so
+/transformer_engine.egg-info/
+/transformer_engine/cmake-build-release/
+/transformer_engine/cmake-build-debug/
+/3rdparty/cudnn-frontend/cmake-build-release/
+/3rdparty/cudnn-frontend/cmake-build-debug/
+/3rdparty/cudnn-frontend/cudnn.egg-info/
+/3rdparty/cudnn-frontend/cudnn.cpython-310-x86_64-linux-gnu.so
+/build/
